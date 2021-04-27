@@ -1,4 +1,9 @@
-### Hi there 👋
+Luka, Finland, he/him.
+
+I'm a student.
+Currently learning basics in C#.
+
+
 
 <!--
 **lukanja/lukanja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
