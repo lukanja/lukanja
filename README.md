@@ -1,7 +1,11 @@
 name: Luka
+
 pronouns: he/him
+
 languages: Finnish, English
+
 email: tekotaide@hotmail.com
+
 
 I'm a student currently learning basics in C#.
 
