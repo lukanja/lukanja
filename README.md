@@ -7,7 +7,7 @@ languages: Finnish, English
 email: tekotaide@hotmail.com
 
 
-I'm a student currently learning basics in C#.
+I'm a student currently learning C# and T-SQL.
 
 
 
