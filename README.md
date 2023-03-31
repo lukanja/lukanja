@@ -7,19 +7,7 @@ languages: Finnish, English
 email: tekotaide@hotmail.com
 
 
-I'm a student currently learning 
-
-C# 
-
-SQL
-
-HTML-5
-
-CSS
-
-Javascript
-
-PHP
+Trainee at Digitoimisto Dude Oy
 
 
 
