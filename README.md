@@ -4,9 +4,6 @@ pronouns: he/him
 
 languages: Finnish, English
 
-email: tekotaide@hotmail.com
-
-
 Trainee at Digitoimisto Dude Oy
 
 
