@@ -4,7 +4,7 @@ pronouns: he/him
 
 languages: Finnish, English
 
-Trainee at Digitoimisto Dude Oy
+Developer at Digitoimisto Dude Oy
 
 
 
